@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+   tree bionjTree = [&R] <<iqtree_cytb.bionj>> ;
+end;
